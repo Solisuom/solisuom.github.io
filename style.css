@@ -1,4 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:700&display=swap');
+
+
 body
 {
-  background-image: url("images/background.png");
+background-color: #A8A8A8;
+background-size: 100%;
+}	
+
+.work {
+	background: #E7F0B1;
+	border-radius: 10px;
+	flex-grow: 1;
+	margin: 10px;
+	padding: 20px;
+	position: relative;
+	display: inline-block;
 }
+
+
+.project-header {
+	font-family: Roboto Slab;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 26px;
+	display: inline;
+	color: #1E1E1E;
+}
+
