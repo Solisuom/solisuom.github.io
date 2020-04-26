@@ -69,10 +69,6 @@ body { margin: 0; background: #E1E1E1; }
 	color: #1E1E1E;
 }
 
-.work a:hover {
-	text-decoration-line: underline;
-}
-
 .project-header {
 	font-family: Roboto Slab;
 	font-style: normal;
