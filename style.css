@@ -11,11 +11,6 @@ body { margin: 0; background: #E1E1E1; }
 	display: inline-block;
 }
 
-@media only screen and (max-width: 767px) {
-	.works {
-		margin: 0;
-	}
-}
 
 
 .works-column {
@@ -25,12 +20,6 @@ body { margin: 0; background: #E1E1E1; }
 	flex-direction: column;
 }
 
-@media only screen and (max-width: 767px) {
-	.works-column {
-		float: none;
-		width: auto;
-	}
-}
 
 .work {
 	background: #FFFFFF;
@@ -42,13 +31,6 @@ body { margin: 0; background: #E1E1E1; }
 	display: inline-block;
 }
 
-@media only screen and (max-width: 767px) {
-	.work {
-		border-radius: 0;
-		margin-left: 0;
-		margin-right: 0;
-	}
-}
 
 .work p {
 	font-family: Montserrat;
